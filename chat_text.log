@@ -1,0 +1,230 @@
+WARNING:werkzeug: * Debugger is active!
+ERROR:root:
+ERROR:root:question:
+ERROR:root:hey
+ERROR:root:answer:
+ERROR:root:Hello! How may I help you.
+ERROR:root:
+ERROR:root:question:
+ERROR:root:do u have coffee
+ERROR:root:answer:
+ERROR:root:Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ERROR:root:
+ERROR:root:question:
+ERROR:root:i will take one espresso and 2 americano
+ERROR:root:answer:
+ERROR:root:Sir thanks for your order. You have ordered 1 espresso and 2 americano.Please wait for sometime.
+WARNING:werkzeug: * Debugger is active!
+ERROR:root:
+
+ERROR:root:question:i will take one espresso and 5 americano
+ERROR:root:answer:Sir thanks for your order. You have ordered 1 espresso and 5 americano.Please wait for sometime.
+ERROR:root:
+
+ERROR:root:question:anything special
+ERROR:root:answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ERROR:root:
+
+ERROR:root:question:suggest something
+ERROR:root:answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ERROR:root:
+
+ERROR:root:question:suggest something
+ERROR:root:answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ERROR:root:
+
+ERROR:root:question:what do u think we should have
+ERROR:root:answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ERROR:root:
+
+ERROR:root:question:what special do u have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:hello
+ERROR:root:answer:Hello! How may I help you.
+WARNING:werkzeug: * Debugger is active!
+ERROR:root:
+
+ERROR:root:question:what special do u have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:what special do u have
+ERROR:root:answer:Prdon please, what you want ?
+WARNING:werkzeug: * Debugger is active!
+ERROR:root:
+
+ERROR:root:question:what special do u have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:what do u have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:what do u have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:what do u have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:what do u have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:what do you have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:do you have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:do you have h
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:do you have h
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:do you have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:what do you have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:what do you have coffee
+ERROR:root:answer:Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ERROR:root:
+
+ERROR:root:question:do you have espresso
+ERROR:root:answer:Yes we have your choice in our coffee house.
+ERROR:root:
+
+ERROR:root:question:do you have coffee
+ERROR:root:answer:Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ERROR:root:
+
+ERROR:root:question:what do you have
+ERROR:root:answer:Prdon please, what you want ?
+ERROR:root:
+
+ERROR:root:question:what can i get
+ERROR:root:answer:Pardon please, what you want?
+ERROR:root:
+
+ERROR:root:question:what you have
+ERROR:root:answer:Prdon please, what you want ?
+WARNING:werkzeug: * Debugger is active!
+ERROR:root:
+
+ERROR:root:question:what you have
+WARNING:werkzeug: * Debugger is active!
+ERROR:root:
+
+ERROR:root:question:what u have
+ERROR:root:answer:Prdon please, what you want ?  Do you like to have cappccino.
+WARNING:werkzeug: * Debugger is active!
+ERROR:root:
+
+ERROR:root:question:what u have
+ERROR:root:answer:Pardon, may i suggest you a hazelnut cappccino.
+ERROR:root:
+
+ERROR:root:question:what u have
+ERROR:root:answer:Pardon, may i suggest you a cafe mocha.
+ERROR:root:
+
+ERROR:root:question:what u have
+ERROR:root:answer:Pardon please, what you want? Do you like to have cappccino.
+ERROR:root:
+
+ERROR:root:question:what u have
+ERROR:root:answer:Would you like indian filter coffee.
+ERROR:root:
+
+ERROR:root:question:what u have
+ERROR:root:answer:Pardon, may i suggest you a cappccino.
+ERROR:root:
+
+ERROR:root:question:what u have
+ERROR:root:answer:Sorry , would you likeamericano.
