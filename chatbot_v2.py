@@ -13,7 +13,7 @@ logging.debug('This message should go to the log file')
 # Sentences we'll respond with if the user greeted us
 Greetings_Keywords = ("hello", "hi", "greetings", "sup", "what's up", "moring", "evening", "afternoon", "hey")
 Greetings_Responses = ["Hello! How may I help you.", "What you would like to have.", "Hello :)"]
-Default_response = ["Pardon please, what you want? Do you like to have ", "Would you like ", "Sorry , would you like", 
+Default_response = ["Hope you like to have ", "Would you like ", "Sorry , would you like ", 
                     "Pardon, may i suggest you a "]
 
 #the menu item and prices can also be fetched from server/a local database or a file locally stored
@@ -63,6 +63,11 @@ def respond(sentence):
     if not resp:
         resp = check_for_greeting(parsed)
     
+# check for sugar, because if you mention sugar it only means you want extra bags as sugar comes seperate, chanses of anyone saying
+# i dont want sugar is very less
+    if not resp:
+        if re.findall("sugar", cleaned):
+            resp = "Sure sir, I will just get you sugar."
 
     # if name of coffee is present then it enters in this loop, then is checked for presence of pronoun, then check if its a question
     # question contains words which suggest an order is being placed 
