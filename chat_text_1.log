@@ -1,0 +1,419 @@
+question:
+hey
+answer:
+Hello! How may I help you.
+ 
+ question:
+ do u have coffee
+ answer:
+ Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:
+ i will take one espresso and 2 americano
+ answer:
+ Sir thanks for your order. You have ordered 1 espresso and 2 americano.Please wait for sometime.
+
+
+ question:i will take one espresso and 5 americano
+ answer:Sir thanks for your order. You have ordered 1 espresso and 5 americano.Please wait for sometime.
+ 
+
+ question:anything special
+ answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:suggest something
+ answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:suggest something
+ answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:what do u think we should have
+ answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:what special do u have
+ answer:Prdon please, what you want ?
+ 
+
+ question:hello
+ answer:Hello! How may I help you.
+WARNING:werkzeug: * Debugger is active!
+ 
+
+ question:what special do u have
+ answer:Prdon please, what you want ?
+ 
+
+ question:what special do u have
+ answer:Prdon please, what you want ?
+WARNING:werkzeug: * Debugger is active!
+ 
+
+ question:what special do u have
+ answer:Prdon please, what you want ?
+ 
+
+ question:what do u have
+ answer:Prdon please, what you want ?
+ 
+
+ question:what do u have
+ answer:Prdon please, what you want ?
+ 
+
+ question:what do u have
+ answer:Prdon please, what you want ?
+ 
+
+ question:what do u have
+ answer:Prdon please, what you want ?
+ 
+
+ question:what do you have
+ answer:Prdon please, what you want ?
+ 
+
+ question:do you have
+ answer:Prdon please, what you want ?
+ 
+
+ question:do you have h
+ answer:Prdon please, what you want ?
+ 
+
+ question:do you have h
+ answer:Prdon please, what you want ?
+ 
+
+ question:do you have
+ answer:Prdon please, what you want ?
+ 
+
+ question:what do you have
+ answer:Prdon please, what you want ?
+ 
+
+ question:what do you have coffee
+ answer:Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:do you have espresso
+ answer:Yes we have your choice in our coffee house.
+ 
+
+ question:do you have coffee
+ answer:Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:what do you have
+ answer:Prdon please, what you want ?
+ 
+
+ question:what can i get
+ answer:Pardon please, what you want?
+ 
+
+ question:what you have
+ answer:Prdon please, what you want ?
+WARNING:werkzeug: * Debugger is active!
+ 
+
+ question:what you have
+WARNING:werkzeug: * Debugger is active!
+ 
+
+ question:what u have
+ answer:Prdon please, what you want ?  Do you like to have cappccino.
+WARNING:werkzeug: * Debugger is active!
+ 
+
+ question:what u have
+ answer:Pardon, may i suggest you a hazelnut cappccino.
+ 
+
+ question:what u have
+ answer:Pardon, may i suggest you a cafe mocha.
+ 
+
+ question:what u have
+ answer:Pardon please, what you want? Do you like to have cappccino.
+ 
+
+ question:what u have
+ answer:Would you like indian filter coffee.
+ 
+
+ question:what u have
+ answer:Pardon, may i suggest you a cappccino.
+ 
+
+ question:what u have
+ answer:Sorry , would you likeamericano.
+ 
+
+ question:excuse me do u have espresso
+ answer:Yes we have your choice in our coffee house.
+ 
+
+ question:hello
+ answer:What you would like to have.
+ 
+
+ question:can i get have a coffee
+ answer:Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:get me a espresso
+ answer:Sure! a espresso is on its way. Please wait for sometime.
+ 
+
+ question:i would like to have a espresso
+ answer:Sure! a espresso is on its way. Please wait for sometime.
+ 
+
+ question:i would like to have a espresso
+ answer:Sure! a espresso is on its way. Please wait for sometime.
+ 
+
+ question:need a coffee
+ answer:Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:need a espresso
+ answer:Sure! a espresso is on its way. Please wait for sometime.
+ 
+
+ question:want a espresso
+ answer:Sure! a espresso is on its way. Please wait for sometime.
+ 
+
+ question:have you espresso
+ answer:Sure! a espresso is on its way. Please wait for sometime.
+ 
+
+ question:have you coffee
+ answer:Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:have you espresso
+ answer:Sure! a espresso is on its way. Please wait for sometime.
+ 
+
+ question:do you have espresso
+ answer:Yes we have your choice in our coffee house.
+ 
+
+ question:can u serve me
+ answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+ 
+
+ question:do u have
+ answer:Sorry , would you likecappccino.
+WARNING:werkzeug: * Debugger is active!
+ 
+
+ question:do u have
+ answer:Pardon please, what you want? Do you like to have americano.
+ 
+
+ question:can i get extra sugar
+ answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+WARNING:werkzeug: * Debugger is active!
+ 
+
+ question:can i get extra sugar
+ answer:Sure sir, I will just get you sugar.
+WARNING:werkzeug: * Debugger is active!
+ 
+
+ question:what can i get
+ answer:Would you like americano.
+ 
+
+ question:what you have
+ answer:Pardon please, what you want? Do you like to have indian filter coffee.
+WARNING:werkzeug: * Debugger is active!
+ 
+
+ question:what you have
+ answer:Pardon, may i suggest you a americano.
+ 
+
+ question:what you have
+ answer:Sorry , would you like cappccino.
+ 
+
+ question:what you have
+ answer:Pardon, may i suggest you a caffe latte.
+ 
+
+ question:what you have
+ answer:Would you like espresso.
+ 
+
+ question:what you have
+ answer:Sorry , would you like hazelnut cappccino.
+ 
+
+ question:what you have
+ answer:Pardon, may i suggest you a caffe latte.
+ 
+
+ question:what you have
+ answer:Hope you like to have irish cappccino.
+ 
+
+ question:what you have
+ answer:Sorry , would you like irish cappccino.
+ 
+
+ question:do u have espresso
+ answer:Yes we have your choice in our coffee house.
+ 
+
+ question:do u have water
+ answer:Sorry , would you like caffe latte.
+ 
+
+ question:anything special
+ answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?

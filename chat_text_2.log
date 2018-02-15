@@ -1,0 +1,79 @@
+
+
+question:hey
+answer:Hello! How may I help you.
+
+
+question:what is in the menu
+answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+
+
+question:i would like to have one espresso and 3 caffe latte
+answer:Sir thanks for your order. You have ordered 1 espresso and 3 caffe latte.Please wait for sometime.
+
+
+question:snything special
+answer:We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+
+
+question:do u have dirty coffee
+answer:No sir, but why.
+
+
+question:do u have good coffee
+answer:Yes sir
+We have
+Americano
+Caffe Latte
+Cafe Mocha
+Cappccino
+Espresso
+Indian FilterCoffee
+Instant Coffee
+Irish Cappccino
+Hazelnut Cappccino
+What would you like to have?
+
+
+question:do u have bad coffee
+answer:No sir, but why.
+
+
+question:what should i take
+answer:Pardon, may i suggest you a americano.
+
+
+question:no can u suggest something else
+answer:Hope you like to have caffe latte.
+
+
+question:ok i will have two caffe latte
+answer:Sure! 2 caffe latte are on way. Please wait for sometime.
+
+
+question:what should i take
+answer:Hope you like to have cappccino.
+
+
+question:ok i will take one
+answer:Pardon, may i suggest you a irish cappccino.
