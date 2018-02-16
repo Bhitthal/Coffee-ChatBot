@@ -20,6 +20,7 @@ Coffee Shop Sales Executive ChatBot
 
 ### Running the tests
 * Enter in environment you created
+* Create a folder named templates and move first.html to it
 * Start server
 * Hit ip:port on which on your web browser and a form will open
 * And here you go
